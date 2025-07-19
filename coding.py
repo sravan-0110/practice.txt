@@ -7,3 +7,4 @@ end = 10
 # Loop through numbers from start to end
 for i in range(start, end + 1):
     print("Number:", i)
+    print("Counting complete!")
