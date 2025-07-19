@@ -1,5 +1,5 @@
 
-
+print("Counting complete!")
 start = 1
 # Set ending number
 end = 10
