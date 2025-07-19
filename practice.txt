@@ -4,5 +4,12 @@ hello
 my hobbies are playing cricket and watch movies
 i want to become a great father for my son.....
 .
+<<<<<<< HEAD
 ."line1"...hello
 
+=======
+.
+my fav cricketer rohit sharma..
+..........@@@.
+"end"
+>>>>>>> b2
