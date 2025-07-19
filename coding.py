@@ -2,3 +2,5 @@
 
 # Set starting number
 start = 1
+# Set ending number
+end = 10
