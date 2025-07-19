@@ -5,7 +5,4 @@ banglore
 my hobbies are playing cricket and watch movies
 i want to become a great father for my son.....
 .
-.
-my fav cricketer rohit sharma..
-.
-"end"
+."line1"...
